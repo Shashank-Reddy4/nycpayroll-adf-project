@@ -1,0 +1,15 @@
+{
+	"name": "adf-nycpayroll-shashank",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c45eb67b-2d21-4e4e-8e9c-fb4e26360ac3",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
